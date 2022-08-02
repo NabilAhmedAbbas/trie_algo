@@ -69,7 +69,7 @@ class Trie
 
 int main()
 {
-    cout<< (short)'A'<<'\n';
+    
     Trie mtre;
     mtre.insert("test");
     if (mtre.search("test"))
